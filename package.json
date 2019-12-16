@@ -1,0 +1,19 @@
+{
+  "name": "@mickeyfisch/seje-dims",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickeyFischerHansen/seje-dims.git"
+  },
+  "author": "Mickey Fischer Hansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MickeyFischerHansen/seje-dims/issues"
+  },
+  "homepage": "https://github.com/MickeyFischerHansen/seje-dims#readme",
+  "description": ""
+}
