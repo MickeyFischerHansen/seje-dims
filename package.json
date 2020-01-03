@@ -1,7 +1,7 @@
 {
   "name": "@mickeyfisch/seje-dims",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,10 @@
     "url": "https://github.com/MickeyFischerHansen/seje-dims/issues"
   },
   "homepage": "https://github.com/MickeyFischerHansen/seje-dims#readme",
-  "description": ""
+  "description": "```bash\r npm i @mickeyfisch/seje-dims\r ```",
+  "keywords": [],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "node-fetch": "^2.6.0"
+  }
 }
